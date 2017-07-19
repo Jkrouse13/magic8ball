@@ -6,6 +6,8 @@ By the end of the activity your magic 8 ball program should be able to accomplis
 - Prompt a user to ask a question
 - Randomly select a predefined answer
 - Show the user the answer to their question
+- Create a EightBall class
+  - use a self.method & and an instance method
 
 # Pre defined answers
 - It is certain
