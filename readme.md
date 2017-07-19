@@ -34,4 +34,4 @@ By the end of the activity your magic 8 ball program should be able to accomplis
 - Very doubtful
 
 # Sample?!?
-Picking a random item from a collection is not incredibly difficult in Ruby. An array has a [].sample method that will return a random item from your array. See this stack overflow answer for a demonstration  -- https://newline.theironyard.com/courses/4/activities/214
+Picking a random item from a collection is not incredibly difficult in Ruby. An array has a [].sample method that will return a random item from your array. See this stack overflow answer for a demonstration  -- https://stackoverflow.com/questions/3482149/how-do-i-pick-randomly-from-an-array/3483802#3483802
