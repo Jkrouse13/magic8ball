@@ -16,6 +16,7 @@ By the end of the activity your magic 8 ball program should be able to accomplis
 - As I see it, yes
 - Most likely
 - Outlook good
+- Ruby > React
 - Yes
 - Signs point to yes
 - Reply hazy try again
