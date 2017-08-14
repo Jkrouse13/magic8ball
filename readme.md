@@ -20,7 +20,7 @@ By the end of the activity your magic 8 ball program should be able to accomplis
 - Signs point to yes
 - Reply hazy try again
 - Ask again later
-- Better not tell you now
+- Bettser not tell you now
 - Cannot predict now
 - Concentrate and ask again
 - Don't count on it
