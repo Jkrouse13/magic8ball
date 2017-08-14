@@ -6,6 +6,8 @@ By the end of the activity your magic 8 ball program should be able to accomplis
 - Prompt a user to ask a question
 - Randomly select a predefined answer
 - Show the user the answer to their question
+- Create a EightBall class
+  - use a self.method & and an instance method
 
 # Pre defined answers
 - It is certain
@@ -16,6 +18,7 @@ By the end of the activity your magic 8 ball program should be able to accomplis
 - As I see it, yes
 - Most likely
 - Outlook good
+- Ruby > React
 - Yes
 - Signs point to yes
 - Reply hazy try again
@@ -31,4 +34,4 @@ By the end of the activity your magic 8 ball program should be able to accomplis
 - Very doubtful
 
 # Sample?!?
-Picking a random item from a collection is not incredibly difficult in Ruby. An array has a [].sample method that will return a random item from your array. See this stack overflow answer for a demonstration  -- https://newline.theironyard.com/courses/4/activities/214
+Picking a random item from a collection is not incredibly difficult in Ruby. An array has a [].sample method that will return a random item from your array. See this stack overflow answer for a demonstration  -- https://stackoverflow.com/questions/3482149/how-do-i-pick-randomly-from-an-array/3483802#3483802
